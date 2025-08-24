@@ -1,4 +1,8 @@
-## Hi there 👋
+# dextersig@github:~$ vim README.md
+
+I'm a student working towards a Computer Science degree at the University of Manitoba.
+
+I have the most fun programming when I get to work on things with unique requirements, restrictions, or goals. Having to take things into consideration that aren't usually an issue on modern systems is an engaging thought experiment. In the future, I'd love to demake a modern game for a retro video game console.
 
 <!--
 **dextersig/dextersig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
